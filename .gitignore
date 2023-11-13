@@ -1,0 +1,13 @@
+# Ignore data directory
+data/
+
+# Ignore models directory
+models/
+
+# Ignore experiments directory
+experiments/
+
+# Ignore files with the .amltmp extension
+*.amltmp
+*.amlignore
+
